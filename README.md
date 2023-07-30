@@ -16,7 +16,7 @@ QR code component challenge on Frontend Mentor.
 
 ### Screenshot
 
-![](../../Challenges/Web%20capture_30-7-2023_16303_localhost.jpeg)
+![](./src/assets/Web%20capture_30-7-2023_16303_localhost.jpeg)
 
 ## My process
 
