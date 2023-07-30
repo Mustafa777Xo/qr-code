@@ -1,3 +1,42 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+QR code component challenge on Frontend Mentor.
+
+### Screenshot
+
+![](../../Challenges/Web%20capture_30-7-2023_16303_localhost.jpeg)
+
+## My process
+
+    Create new vuetify 3 application.
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [vue3](https://vuejs.org/) - JS library
+- [vuetify 3](https://nextjs.org/) - For styles
+
 # base
 
 ## Project setup
